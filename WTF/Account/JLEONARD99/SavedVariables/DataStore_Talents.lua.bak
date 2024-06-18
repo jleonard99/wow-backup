@@ -1,0 +1,73 @@
+
+DataStore_Talents_Characters = {
+}
+DataStore_Talents_Specializations = {
+282,
+73,
+115,
+202,
+249,
+297,
+}
+DataStore_Talents_SpecializationInfos = {
+["Roles"] = {
+["Set"] = {
+["DAMAGER"] = 1,
+["TANK"] = 2,
+["HEALER"] = 3,
+},
+["Count"] = 3,
+["List"] = {
+"DAMAGER",
+"TANK",
+"HEALER",
+},
+},
+["Names"] = {
+["Set"] = {
+["Windwalker"] = 1,
+["Discipline"] = 7,
+["Elemental"] = 4,
+["Mistweaver"] = 8,
+["Guardian"] = 3,
+["Arcane"] = 2,
+["Beast Mastery"] = 9,
+["Restoration"] = 5,
+["Enhancement"] = 6,
+},
+["Count"] = 9,
+["List"] = {
+"Windwalker",
+"Arcane",
+"Guardian",
+"Elemental",
+"Restoration",
+"Enhancement",
+"Discipline",
+"Mistweaver",
+"Beast Mastery",
+},
+},
+}
+DataStore_Talents_Covenant = {
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+{
+},
+}
+DataStore_Talents_Conduits = {
+}
+DataStore_Talents_ConduitSpecs = {
+}
+DataStore_Talents_Soulbinds = {
+}
+DataStore_Talents_Reasons = {
+}

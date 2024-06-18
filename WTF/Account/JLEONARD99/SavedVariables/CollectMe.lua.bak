@@ -1,0 +1,72 @@
+
+CollectMeDB = {
+["profileKeys"] = {
+["Friarspud - Garrosh"] = "Friarspud - Garrosh",
+["Shaolinspud - Garrosh"] = "Shaolinspud - Garrosh",
+["Spudlock - Garrosh"] = "Spudlock - Garrosh",
+["Spudwick - Garrosh"] = "Spudwick - Garrosh",
+["Taranispud - Garrosh"] = "Taranispud - Garrosh",
+["Oracularspud - Garrosh"] = "Oracularspud - Garrosh",
+["Malefispud - Garrosh"] = "Malefispud - Garrosh",
+["Arcanispud - Garrosh"] = "Arcanispud - Garrosh",
+["Spudslinger - Garrosh"] = "Spudslinger - Garrosh",
+["Thunderspud - Garrosh"] = "Thunderspud - Garrosh",
+["Glockenspud - Garrosh"] = "Glockenspud - Garrosh",
+["Spudillidan - Garrosh"] = "Spudillidan - Garrosh",
+["Voodispud - Garrosh"] = "Voodispud - Garrosh",
+["Varletspud - Garrosh"] = "Varletspud - Garrosh",
+},
+["profiles"] = {
+["Friarspud - Garrosh"] = {
+},
+["Shaolinspud - Garrosh"] = {
+["random"] = {
+["mounts"] = {
+[368896] = true,
+[412088] = true,
+[368893] = true,
+[312776] = false,
+[425338] = true,
+[360954] = true,
+[368901] = true,
+[368899] = true,
+},
+},
+},
+["Spudlock - Garrosh"] = {
+},
+["Spudwick - Garrosh"] = {
+},
+["Taranispud - Garrosh"] = {
+["random"] = {
+["mounts"] = {
+[368896] = true,
+[412088] = true,
+[360954] = true,
+[425338] = true,
+[368899] = true,
+[418286] = true,
+[368901] = true,
+},
+},
+},
+["Oracularspud - Garrosh"] = {
+},
+["Malefispud - Garrosh"] = {
+},
+["Arcanispud - Garrosh"] = {
+},
+["Spudslinger - Garrosh"] = {
+},
+["Thunderspud - Garrosh"] = {
+},
+["Glockenspud - Garrosh"] = {
+},
+["Spudillidan - Garrosh"] = {
+},
+["Voodispud - Garrosh"] = {
+},
+["Varletspud - Garrosh"] = {
+},
+},
+}

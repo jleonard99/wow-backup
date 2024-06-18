@@ -1,0 +1,15 @@
+## Interface: 100002
+
+## Title: Ark Inventory [Rules] TSMValue
+## Notes: provides tsmvalue() function in ArkInventory rules to compare item prices to a user-specified value
+## Author: tanddrelia
+## Version: 10201
+
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## RequiredDeps: ArkInventoryRules
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always:delayed
+
+ArkInventoryRules_TSMValue.lua

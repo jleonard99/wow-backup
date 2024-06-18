@@ -1,0 +1,10 @@
+lightweight tag b91611ae1da21e1a89e9f67b5ee10711e544824c 0.26.0
+Author:	GitHub <noreply@github.com>
+Date:	Wed May 8 22:34:06 2024 +0200
+
+commit b91611ae1da21e1a89e9f67b5ee10711e544824c
+Author: Bloodsoul <Bloodsoul@users.noreply.github.com>
+Date:   Wed May 8 22:34:06 2024 +0200
+
+    Update for WoW 10.2.7
+

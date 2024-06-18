@@ -1,0 +1,97 @@
+
+DataStore_Mails_Characters = {
+{
+["lastUpdate"] = 1716689118,
+["Mails"] = {
+},
+["lastVisitDate"] = "2024/05/25 22:05",
+["MailCache"] = {
+},
+},
+{
+["MailCache"] = {
+},
+["Mails"] = {
+},
+},
+{
+["lastUpdate"] = 1716546140,
+["Mails"] = {
+},
+["lastVisitDate"] = "2024/05/24 06:22",
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1716861384,
+["Mails"] = {
+{
+["icon"] = 134327,
+["sender"] = "The Postmaster",
+["subject"] = "Recovered Item",
+["returned"] = false,
+["money"] = 0,
+["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
+["lastCheck"] = 1716861384,
+["daysLeft"] = 27.39249992370606,
+},
+{
+["link"] = "|cff1eff00|Hitem:89770::::::::70:263::::1:28:2769:::::|h[Tuft of Yak Fur]|h|r",
+["sender"] = "The Postmaster",
+["itemID"] = 89770,
+["returned"] = false,
+["icon"] = 134263,
+["count"] = 1,
+["lastCheck"] = 1716861384,
+["daysLeft"] = 27.39249992370606,
+},
+{
+["icon"] = 134327,
+["sender"] = "The Postmaster",
+["subject"] = "Recovered Item",
+["returned"] = false,
+["money"] = 0,
+["text"] = "We recovered a lost item in the twisting nether and noted that it was yours.\n\nPlease find said object enclosed.",
+["lastCheck"] = 1716861384,
+["daysLeft"] = 27.57462882995606,
+},
+{
+["link"] = "|cff1eff00|Hitem:219527::::::::70:263::11::1:28:2905:::::|h[Vampiric Aura]|h|r",
+["sender"] = "The Postmaster",
+["itemID"] = 219527,
+["returned"] = false,
+["icon"] = 136231,
+["count"] = 1,
+["lastCheck"] = 1716861384,
+["daysLeft"] = 27.57462882995606,
+},
+},
+["lastVisitDate"] = "2024/05/27 21:56",
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1716864513,
+["Mails"] = {
+},
+["lastVisitDate"] = "2024/05/27 22:48",
+["MailCache"] = {
+},
+},
+{
+["lastUpdate"] = 1718126924,
+["Mails"] = {
+},
+["lastVisitDate"] = "2024/06/11 13:28",
+["MailCache"] = {
+},
+},
+}
+DataStore_Mails_Options = {
+["ReportExpiredMailsToChat"] = true,
+["ScanMailBody"] = true,
+["CheckMailExpiry"] = true,
+["CheckMailExpiryAllRealms"] = true,
+["MailWarningThreshold"] = 5,
+["CheckMailExpiryAllAccounts"] = true,
+}
